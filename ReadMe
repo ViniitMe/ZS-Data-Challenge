@@ -1,0 +1,9 @@
+For training and saving result.csv:
+      python zs.py
+      
+Libraries Used: 
+      Pandas
+      Numpy
+      sklearn
+      
+ 
